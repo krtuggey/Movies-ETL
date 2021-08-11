@@ -22,4 +22,4 @@ The purpose of this project is to create an automated pipeline that takes in new
 #### Deliverable 4: Create the Movie Database
 - The movies_df DataFrame and MovieLens rating CSV data is added to a SQL database using PostgreSQL.
 - The number of rows for each table is checked using SELECT COUNT(*)
-- ETL_create_database.ipynb, movies_query.png, and ratings_query.png was added to the repository.
+- ETL_create_database.ipynb, movies_query.png, and ratings_query.png is added to the repository.
